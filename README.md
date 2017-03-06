@@ -16,11 +16,12 @@ Visualizing some of the traffic signs. The code is in cell 6 of the jupyter note
 
 ![alt text](https://github.com/scigeek72/CarND_Project_2/blob/master/Visualization%20Files/Visualization1.png)
 
-Include visualization here [Visualization1.png]
+
 
 Below is the histogram showing the frequeancy of each of the classes present in the dataset.
 
 ![alt text](https://github.com/scigeek72/CarND_Project_2/blob/master/Visualization%20Files/hist1.png)
+
 
 ### Design and Test a Model Architechture
 
@@ -60,7 +61,7 @@ Below is the visualization of a particular traffic sign (randomly selected) whic
 
 
 ![alt text](https://github.com/scigeek72/CarND_Project_2/blob/master/Visualization%20Files/Visualization2.png)
-Include the visualization here [Visualization2.png]
+
 
 #### Neural Net architechture
 
@@ -108,15 +109,15 @@ The accuracy on the new test set: 60%
 
 The five pictures are visualized below.
 
-![alt text](https://github.com/scigeek72/CarND_Project_2/blob/master/Visualization%20Files/test_5.png)
+![alt text](https://github.com/scigeek72/CarND_Project_2/blob/master/Visualization%20Files/Test_5.png)
 
-Include the visualization of the test set  [test_5.png]
+I
 
 Below is a visualization of the probabilities associated with each prediction.
 
 ![alt text](https://github.com/scigeek72/CarND_Project_2/blob/master/Visualization%20Files/Visualization3.png)
 
-Include the visualization [Visualization3.png]
+
 
 
 ### Comments:
